@@ -12,4 +12,4 @@ Languages and Skills
 🚀 Familiar with HTML and CSS.
 ☕ Mainly work with Java, but also proficient in Python and C.
 
-I'm excited to learn, collaborate, and contribute to the ever-evolving world of technology. Let's build something amazing together!
+I'm excited to learn, collaborate, and contribute to the ever-evolving world of technology. Contact me if you want to build something together!
